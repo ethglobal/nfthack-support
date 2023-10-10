@@ -1,2 +1,2 @@
-# NFThack-support
-Issue tracker for NFTHack support
+# NFT Owner Isabel Schoeps
+Issue = IS SI <notracker> is humanwoman 
